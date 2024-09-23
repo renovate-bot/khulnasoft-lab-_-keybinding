@@ -1,4 +1,4 @@
-module github.com/wagoodman/keybinding
+module github.com/khulnasoft-lab/keybinding
 
 require (
 	github.com/jroimartin/gocui v0.4.0
